@@ -1,0 +1,26 @@
+version,filtro,mascara,resolucion,origen,repeticion,cpu_ms,error_max,error_medio,estado
+Python secuencial,Media,3,64,recorte superior izquierdo imagen_2000.pgm,1,33.27729998272844,0.0,0.0,CORRECTA
+Python secuencial,Media,3,64,recorte superior izquierdo imagen_2000.pgm,2,51.17590000736527,0.0,0.0,CORRECTA
+Python secuencial,Media,3,64,recorte superior izquierdo imagen_2000.pgm,3,37.96470002271235,0.0,0.0,CORRECTA
+Python secuencial,Media,3,64,recorte superior izquierdo imagen_2000.pgm,4,33.24279998196289,0.0,0.0,CORRECTA
+Python secuencial,Media,3,64,recorte superior izquierdo imagen_2000.pgm,5,33.414000004995614,0.0,0.0,CORRECTA
+Python secuencial,Sharpen,3,64,recorte superior izquierdo imagen_2000.pgm,1,34.10900000017136,0.0,0.0,CORRECTA
+Python secuencial,Sharpen,3,64,recorte superior izquierdo imagen_2000.pgm,2,35.61519997310825,0.0,0.0,CORRECTA
+Python secuencial,Sharpen,3,64,recorte superior izquierdo imagen_2000.pgm,3,32.56819999660365,0.0,0.0,CORRECTA
+Python secuencial,Sharpen,3,64,recorte superior izquierdo imagen_2000.pgm,4,34.03389998129569,0.0,0.0,CORRECTA
+Python secuencial,Sharpen,3,64,recorte superior izquierdo imagen_2000.pgm,5,35.10800001095049,0.0,0.0,CORRECTA
+Python secuencial,Laplaciano,3,64,recorte superior izquierdo imagen_2000.pgm,1,34.648100001504645,0.0,0.0,CORRECTA
+Python secuencial,Laplaciano,3,64,recorte superior izquierdo imagen_2000.pgm,2,35.477800003718585,0.0,0.0,CORRECTA
+Python secuencial,Laplaciano,3,64,recorte superior izquierdo imagen_2000.pgm,3,34.67570000793785,0.0,0.0,CORRECTA
+Python secuencial,Laplaciano,3,64,recorte superior izquierdo imagen_2000.pgm,4,37.64870000304654,0.0,0.0,CORRECTA
+Python secuencial,Laplaciano,3,64,recorte superior izquierdo imagen_2000.pgm,5,34.3527999939397,0.0,0.0,CORRECTA
+Python secuencial,Media,9,64,recorte superior izquierdo imagen_2000.pgm,1,246.72439999994822,0.0,0.0,CORRECTA
+Python secuencial,Media,9,64,recorte superior izquierdo imagen_2000.pgm,2,252.32339999638498,0.0,0.0,CORRECTA
+Python secuencial,Media,9,64,recorte superior izquierdo imagen_2000.pgm,3,245.27990000206046,0.0,0.0,CORRECTA
+Python secuencial,Media,9,64,recorte superior izquierdo imagen_2000.pgm,4,241.63940001744777,0.0,0.0,CORRECTA
+Python secuencial,Media,9,64,recorte superior izquierdo imagen_2000.pgm,5,251.76869999268092,0.0,0.0,CORRECTA
+Python secuencial,Media,21,64,recorte superior izquierdo imagen_2000.pgm,1,1176.2835999834351,0.0,0.0,CORRECTA
+Python secuencial,Media,21,64,recorte superior izquierdo imagen_2000.pgm,2,1154.9794000166003,0.0,0.0,CORRECTA
+Python secuencial,Media,21,64,recorte superior izquierdo imagen_2000.pgm,3,1143.2180999836419,0.0,0.0,CORRECTA
+Python secuencial,Media,21,64,recorte superior izquierdo imagen_2000.pgm,4,1171.9183000095654,0.0,0.0,CORRECTA
+Python secuencial,Media,21,64,recorte superior izquierdo imagen_2000.pgm,5,1147.0419999968726,0.0,0.0,CORRECTA
